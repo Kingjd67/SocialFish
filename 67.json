@@ -1,0 +1,7 @@
+https.//jsonplaceholder.typicode.com/
+
+const getData = async function(){
+const [users,Posts,albums]=await
+promise.all(urls.map(url => fetch(url).then(resp=>resp.json())))
+console.log
+}
